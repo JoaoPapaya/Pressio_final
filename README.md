@@ -24,7 +24,7 @@ App fiel ao protótipo enviado, com 3 telas principais e navegação funcional:
    ```
 2. Inicie o projeto com Expo:
    ```bash
-   npx expo start
+   npx expo start --web
    ```
 3. Escaneie o QR code com o app **Expo Go** (Android/iOS) ou pressione `i` / `a` para abrir num simulador.
 
